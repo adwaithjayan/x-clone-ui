@@ -19,6 +19,6 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 Create an .env file and add the followings
 
-NEXT_PUBLIC_PUBLIC_KEY=<Imagekit public key>
-NEXT_PUBLIC_URL_ENDPOINT=<Imagekit url>
-PRIVATE_KEY=<Imagekit private key>
+NEXT_PUBLIC_PUBLIC_KEY='<Imagekit public key>'
+NEXT_PUBLIC_URL_ENDPOINT='<Imagekit url>'
+PRIVATE_KEY='<Imagekit private key>'
